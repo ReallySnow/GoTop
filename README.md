@@ -2,6 +2,7 @@
 基于Typecho修改，[原链接](https://github.com/MisakaTAT/GoTop)
 兼容Hexo
 ## 【食用方法】
+* 解压将css、js、images放入source文件夹
 * 在layout.ejs加入
 
       <div class="back-to-top cd-top faa-float animated cd-is-visible" style="top: -900px;"></div>
